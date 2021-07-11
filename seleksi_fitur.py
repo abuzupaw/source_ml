@@ -43,7 +43,7 @@ nilai_chi.plot.bar()
 p_values.plot.bar()
 
 ##################################################################################################
-##############################PREDIKSI TANPA SELEKSI FITUR########################################
+##############################PREDIKSI TANPA SELEKSI FITUR MENGGUNAKAN DECISION TREE #############
 ##################################################################################################
 df = datapegawaipake[['SEX', 'DURASI', 'SENIOR', 'LEVEL_JOB', 'DEPT', 'RESIGN']] 
 X_train, X_test, y_train, y_test = train_test_split(df.iloc[:,0:5], df.iloc[:,5], test_size=0.2)
@@ -80,74 +80,10 @@ sns.heatmap(hasil_prediksi, annot=True)
 
 
 
-##########################################################################
-#################### KLASIFIKASI MENGGUNAKAN NAIVE BAYES
-##########################################################################
-##########################################################################
 
-#Create a Gaussian Classifier
-gnb = GaussianNB()
-
-#Train the model using the training sets
-gnb.fit(X_train, y_train)
-
-#Predict the response for test dataset
-y_pred = gnb.predict(X_test)
-
-from sklearn import metrics
-
-from sklearn.metrics import classification_report
-
-hasil_prediksi = confusion_matrix(y_test, y_pred)
-
-print(classification_report(y_test, y_pred, target_names=target_names))
-
-# Model Accuracy, how often is the classifier correct?
-print("Accuracy Bayes:",metrics.accuracy_score(y_test, y_pred))
-
-import seaborn as sns
-sns.heatmap(hasil_prediksi, annot=True)
-
-
-
-
-
-##########################################################################
-#################### KLASIFIKASI MENGGUNAKAN RANDOM FOREST
-##########################################################################
-##########################################################################
-from sklearn.ensemble import RandomForestClassifier
-# Instantiate model with 1000 decision trees
-clf=RandomForestClassifier(n_estimators=100)
-
-#Train the model using the training sets y_pred=clf.predict(X_test)
-clf.fit(X_train,y_train)
-
-y_pred=clf.predict(X_test)
-
-from sklearn import metrics
-
-from sklearn.metrics import classification_report
-
-print("Accuracy Random Forest:",metrics.accuracy_score(y_test, y_pred))
-print(classification_report(y_test, y_pred, target_names=target_names))
-
-
-hasil_prediksi = confusion_matrix(y_test, y_pred)
-import seaborn as sns
-sns.heatmap(hasil_prediksi, annot=True)
-
-
-
-
-
-
-
-
-
-###########################################################################
-######################## KLASIFIKASI SETELAH SELEKSI FITUR
-###########################################################################
+####################################################################################
+######################## KLASIFIKASI SETELAH SELEKSI FITUR MENGGUNAKAN DECISION TREE
+#####################################################################################
 df = datapegawaipake[['DURASI', 'SENIOR', 'DEPT', 'RESIGN']] 
 X_train, X_test, y_train, y_test = train_test_split(df.iloc[:,0:3], df.iloc[:,3], test_size=0.2)
 
@@ -177,63 +113,3 @@ import seaborn as sns
 sns.heatmap(hasil_prediksi, annot=True)
 
 
-
-
-
-##########################################################################
-#################### KLASIFIKASI MENGGUNAKAN NAIVE BAYES
-##########################################################################
-##########################################################################
-from sklearn.naive_bayes import GaussianNB
-
-#Create a Gaussian Classifier
-gnb = GaussianNB()
-
-#Train the model using the training sets
-gnb.fit(X_train, y_train)
-
-#Predict the response for test dataset
-y_pred = gnb.predict(X_test)
-
-from sklearn import metrics
-
-from sklearn.metrics import classification_report
-
-
-# Model Accuracy, how often is the classifier correct?
-print("Accuracy Bayes:",metrics.accuracy_score(y_test, y_pred))
-print(classification_report(y_test, y_pred, target_names=target_names))
-
-
-
-hasil_prediksi = confusion_matrix(y_test, y_pred)
-import seaborn as sns
-sns.heatmap(hasil_prediksi, annot=True)
-
-##########################################################################
-#################### KLASIFIKASI MENGGUNAKAN RANDOM FOREST
-##########################################################################
-##########################################################################
-from sklearn.ensemble import RandomForestClassifier
-# Instantiate model with 1000 decision trees
-clf=RandomForestClassifier(n_estimators=100)
-
-#Train the model using the training sets y_pred=clf.predict(X_test)
-clf.fit(X_train,y_train)
-
-y_pred=clf.predict(X_test)
-
-from sklearn import metrics
-
-from sklearn.metrics import classification_report
-
-
-# Model Accuracy, how often is the classifier correct?
-print("Accuracy Random Forest:",metrics.accuracy_score(y_test, y_pred))
-print(classification_report(y_test, y_pred, target_names=target_names))
-
-
-
-hasil_prediksi = confusion_matrix(y_test, y_pred)
-import seaborn as sns
-sns.heatmap(hasil_prediksi, annot=True)
