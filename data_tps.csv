@@ -1,0 +1,155 @@
+NO,ID_TPS,WILAYAH,Kecamatan,NAMA_TPS,LOKASI_TPS,Latitude,Longitude,MASUK,KE_TPA
+1,TU001,Bandung Utara,Sukasari,Orari,Lemah Neundeut,-6.88077,107.579187,39.49,39.49
+2,TU002,Bandung Utara,Sukasari,Sarimadu,Sarimadu Komplek Sarijadi,-6.882981,107.573238,45.39,45.39
+3,TU003,Bandung Utara,Sukasari,Kpad,Kartika Komp. Kpad Gerlong,-6.868206,107.588659,15.86,14
+4,TU004,Bandung Utara,Sukasari,Gerlong,Pasar Gerlong Jl. Gerlong Tengah,-6.86741,107.591298,16.57,16
+5,TU005,Bandung Utara,Sukasari,Sersan Bajuri,Sersan Bajuri,-6.855445,107.592013,12.87,12.87
+6,TU006,Bandung Utara,Sukasari,Upi,Komplek Upi,-6.862401,107.592886,6,4.5
+7,TU007,Bandung Utara,Sukajadi,Karangtineung (Jemputan),Karangtineung (Jemputan),-6.883527,107.593569,10,10
+8,TU008,Bandung Utara,Cidadap,Punclut,Punclut Dekat Smpn 52,-6.860752,107.606472,14.93,14.93
+9,TU009,Bandung Utara,Cidadap,Ledeng,Terminal Ledeng,-6.85925,107.595322,3,3
+10,TU010,Bandung Utara,Cidadap,Cirateun,Cirateun,-6.845731,107.599585,10,10
+11,TU011,Bandung Utara,Cibeunying Kaler,Cihaurgeulis,Surapati (Pasar Cihaurgeulis),-6.899374,107.628068,42.79,42.79
+12,TU012,Bandung Utara,Cibeunying Kaler,Itenas,Ph. Mustopha (Itenas),-6.896515,107.636539,6,5
+13,TU013,Bandung Utara,Cibeunying Kaler,Dago Golf (Jemputan),Dago Golf (Jemputan),-6.869288,107.623386,10,10
+14,TU014,Bandung Utara,Sukajadi,Pasteur,Djunjunan,-6.896963,107.59194,59.86,59.86
+15,TU015,Bandung Utara,Sukajadi,Sederhana,Sederhana,-6.890433,107.599634,49.78,49.78
+16,TU016,Bandung Utara,Sukajadi,Cibogo,Cibogo,-6.891418,107.579992,22.32,22.32
+17,TU017,Bandung Utara,Sukajadi,Rumah Sakit Hasan Sadikin (Rshs),Rumah Sakit,-6.897324,107.599055,6,4
+18,TU018,Bandung Utara,Sukajadi,Paris Van Java (Pvj),Sukajadi,-6.889355,107.595842,10,10
+19,TU019,Bandung Utara,Sukajadi,Giant Hypersquare,Djunjunan,-6.91437,107.594345,15,12
+20,TU020,Bandung Utara,Sukajadi,Maranatha,Surya Sumantri,-6.886454,107.58099,6,3
+21,TU021,Bandung Utara,Cibeunying Kidul,Cikutra,Cikutra,-6.906454,107.643936,31.3,31.3
+22,TU022,Bandung Utara,Cibeunying Kidul,Suci,Ph. Mustopha,-6.900163,107.64465,31.75,31.75
+23,TU023,Bandung Utara,Cibeunying Kidul,Pusat Persenjataan Infantri (Ppi),Supratman (Komplek Ppi),-6.903209,107.632913,1.5,1
+24,TU024,Bandung Utara,Bandung Wetan,Pasar Bunga,Wastukancana,-6.904978,107.607525,1,1
+25,TU025,Bandung Utara,Bandung Wetan,Superindo,Djuanda,-6.901653,107.612577,1,1
+26,TU026,Bandung Utara,Bandung Wetan,Ambon,Ambon,-6.908415,107.614448,67.23,67.23
+27,TU027,Bandung Utara,Bandung Wetan,Taman Cibeunying,Taman Cibeunying,-6.907386,107.626327,61.49,61.49
+28,TU028,Bandung Utara,Bandung Wetan,Cimandiri,Cimandiri,-6.903596,107.618611,2,2
+29,TU029,Bandung Utara,Bandung Wetan,Balubur,Balubur Town Square (Baltos),-6.898823,107.608534,3,3
+30,TU030,Bandung Utara,Coblong,Sangkurian,Cisitu,-6.882778,107.610229,9.07,9.07
+31,TU031,Bandung Utara,Coblong,Boromeus,Djuanda (Rumah Sakit Boromeus),-6.894761,107.613858,4,2
+32,TU032,Bandung Utara,Coblong,Terminal Dago,Terminal Dago,-6.867195,107.621516,9.88,9.88
+33,TU033,Bandung Utara,Coblong,Dipatiukur,Singaperbangsa,-6.895688,107.616884,18,18
+34,TU034,Bandung Utara,Coblong,Pasar Sadang Serang,Pasar Sadang Serang,-6.892071,107.624908,27.97,27.97
+35,TU035,Bandung Utara,Coblong,Komplek Sadang Serang,Sadang Tengah,-6.890184,107.625154,23.37,23.37
+36,TU036,Bandung Utara,Coblong,Kebon Binatang,Tamansari,-6.893971,107.608394,42.2,42.2
+37,TU037,Bandung Utara,Coblong,Babakan Siliwangi,Babakan Siliwangi,-6.885066,107.608938,44.75,44.75
+38,TU038,Bandung Utara,Coblong,Puter,Puter,-6.898462,107.622263,22,22
+39,TS001,Bandung Selatan,Sumur Bandung,Kosambi,Pasar Kosambi,-6.919615,107.62239,9.08,9.08
+40,TS002,Bandung Selatan,Sumur Bandung,Patrakomala,Patrakomala,-6.912586,107.624853,27.37,27.37
+41,TS003,Bandung Selatan,Sumur Bandung,Gedung Pakuan,Gedung Pakuan,-6.911939,107.605076,1.78,1.78
+42,TS004,Bandung Selatan,Sumur Bandung,Gudang Selatan,Gudang Selatan,-6.916756,107.619216,31.93,31.93
+43,TS005,Bandung Selatan,Sumur Bandung,Bi Braga,Braga,-6.913973,107.609106,8,4
+44,TS006,Bandung Selatan,Kiaracondong,Kebaktian,Kebaktian,-6.922385,107.649556,33.93,33.93
+45,TS008,Bandung Selatan,Kiaracondong,Psm,Psm,-6.929856,107.648888,43.56,43.56
+46,TS009,Bandung Selatan,Kiaracondong,Pasar Cicadas,Pasar Cicadas,-6.911315,107.643993,31.25,31.25
+47,TS010,Bandung Selatan,Kiaracondong,Pasar Kiaracondong,Kiaracondong,-6.926538,107.644702,27.53,27.53
+48,TS011,Bandung Selatan,Kiaracondong,Tarumatex,Ahmad Yani,-6.911961,107.636369,1.5,0.5
+49,TS012,Bandung Selatan,Kiaracondong,Cicaheum,Terminal Cicaheum (Belakang),-6.902577,107.65673,35.11,35.11
+50,TS013,Bandung Selatan,Regol,Tegallega/Kobana,M. Toha,-6.932901,107.606407,74.4,74.4
+51,TS014,Bandung Selatan,Regol,Taman Tegallega,Taman Tegallega,-6.937096,107.603423,12,10
+52,TS015,Bandung Selatan,Regol,Pasar Karapitan,Pasar Karapitan,-6.93217,107.615351,36.1,36.1
+53,TS016,Bandung Selatan,Regol,Pasirluyu,Pasirluyu,-6.944699,107.620927,32.54,32.54
+54,TS017,Bandung Selatan,Regol,Pln Sukarno Hatta,Sukarno Hatta,-6.949005,107.611994,9.1,9.1
+55,TS018,Bandung Selatan,Regol,Ciseureuh,M. Toha,-6.955037,107.611764,13,10
+56,TS019,Bandung Selatan,Lengkong,Puteraco,Guntursari Wetan,-6.944903,107.634558,24.29,24.29
+57,TS020,Bandung Selatan,Lengkong,Hasan Saputra,Hasan,-6.937215,107.634952,25.52,25.52
+58,TS021,Bandung Selatan,Lengkong,Pasar Palasari,Lodaya,-6.931732,107.62302,44.09,44.09
+59,TS022,Bandung Selatan,Lengkong,Bintara,Sesko Abri Rw 08,-6.925608,107.628695,12.73,12.73
+60,TS023,Bandung Selatan,Batununggal,Sukabumi,Sukabumi,-6.917163,107.63451,14.49,14.49
+61,TS024,Bandung Selatan,Batununggal,Banten,Banten,-6.917934,107.640912,11.67,11.67
+62,TS025,Bandung Selatan,Batununggal,Pemkot,Cianjur,-6.915805,107.632432,21.31,21.31
+63,TS026,Bandung Selatan,Batununggal,Pt. Delami,Sukarno Hatta,-6.945798,107.638431,6,4
+64,TS027,Bandung Selatan,Batununggal,Lp Kb. Waru,Jakarta,-6.91405,107.63898,1,1
+65,TS028,Bandung Selatan,Batununggal,Majalengka,Majalengka,-6.919548,107.63076,10.47,10.47
+66,TS029,Bandung Selatan,Batununggal,Cibangkong Rw 11,Cibangkong,-6.920972,107.631426,3.84,3.84
+67,TS030,Bandung Selatan,Batununggal,Maleer Indah,Komplek Maleer Indah,-6.928854,107.638725,11.26,11.26
+68,TS031,Bandung Selatan,Batununggal,Maleer Rw 05,Jembatan Cibangkong,-6.922346,107.636901,4.21,4.21
+69,TS032,Bandung Selatan,Batununggal,Maleer Rw 06,Jembatan Iv,-6.924978,107.638314,3,2
+70,TS033,Bandung Selatan,Batununggal,Gumuruh,Gumuruh,-6.939377,107.637677,41.66,41.66
+71,TS034,Bandung Selatan,Batununggal,Binongjati,Binongjati,-6.941195,107.640197,50.98,50.98
+72,TS035,Bandung Selatan,Bandung Kidul,Batununggal Indah,Batununggal Indah,-6.961939,107.624687,16.86,16.86
+73,TS036,Bandung Selatan,Bandung Kidul,Pasar Moden Batununggal,Komplek Batununggal,-6.958627,107.623818,1.5,1
+74,TS037,Bandung Selatan,Bandung Kidul,Len Lipi,Sukarno Hatta,-6.949259,107.61953,1.4,1
+75,TS038,Bandung Selatan,Bandung Kidul,Curug Ece,Buah Batu,-6.954415,107.63885,20.39,20.39
+76,TS040,Bandung Selatan,Bandung Kidul,Jakapurwa,Jakapurwa,-6.962812,107.64902,5.8,5.8
+77,TS043,Bandung Selatan,Bandung Kidul,Poolsekelimus,Sekelimus Barat,-6.948118,107.636457,39.02,39.02
+78,TB001,Bandung Barat,Cicendo,Gunung Batu Barat,Gunung Batu Barat,-6.889066,107.564819,34.47,34.47
+79,TB002,Bandung Barat,Cicendo,Gunung Batu Timur,Gunung Batu Timur,-6.890467,107.571774,26.06,26.06
+80,TB003,Bandung Barat,Cicendo,Pasar Pamoyanan,Pasar Pamoyanan,-6.903482,107.596173,17.28,17.28
+81,TB004,Bandung Barat,Cicendo,Pabrik Kina,Pajajaran,-6.907275,107.602447,2,1
+82,TB005,Bandung Barat,Cicendo,Cicendo,Cicendo,-6.91026,107.603992,47.03,47.03
+83,TB006,Bandung Barat,Cicendo,Iptn,Komplek Ptdi,-6.899048,107.583847,10,8
+84,TB007,Bandung Barat,Cicendo,Industri Dalam,Industri Dalam,-6.912398,107.595185,11.95,11.95
+85,TB008,Bandung Barat,Cicendo,Aruna,Aruna,-6.908853,107.588417,37,27
+86,TB009,Bandung Barat,Andir,Babakan Cianjur,Babakan Cianjur,-6.896893,107.568667,31.75,31.75
+87,TB010,Bandung Barat,Andir,Rumah Sakit Kebonjati,Rumah Sakit Kebonjati,-6.91606,107.596325,6,4
+88,TB011,Bandung Barat,Andir,Pasar Andir,Pasar Andir,-6.91781,107.590265,6,4
+89,TB012,Bandung Barat,Andir,Ence Azis,Ence Azis,-6.919155,107.600982,29.57,29.57
+90,TB013,Bandung Barat,Andir,Ciroyom,Pasar Ciroyom,-6.914407,107.587663,158.39,158.39
+91,TB014,Bandung Barat,Andir,Pasar Baru,Pasar Baru,-6.917366,107.603742,16,8
+92,TB015,Bandung Barat,Andir,Hypersquare,Pasir Kaliki,-6.91437,107.594345,8,6
+93,TB016,Bandung Barat,Andir,Waringin,Waringin,-6.91781,107.590265,68.22,68.22
+94,TB017,Bandung Barat,Bojongloa Kaler,Pasar Sukahaji,Pasar Sukahaji,-6.927458,107.585917,49.71,49.71
+95,TB018,Bandung Barat,Bandung Kulon,Pasar Cijerah,Cijerah,-6.926913,107.564936,28.04,28.04
+96,TB019,Bandung Barat,Bandung Kulon,Taman Holis,Taman Holis,-6.949503,107.565123,34.17,34.17
+97,TB020,Bandung Barat,Bandung Kulon,Pasar Rahayu,Cigondewah,-6.951814,107.564632,8.7,8.7
+98,TB021,Bandung Barat,Bandung Kulon,Bumi Asri,Komplek Bumi Asri,-6.92007,107.706557,26.32,26.32
+99,TB022,Bandung Barat,Bandung Kulon,Melong Asih,Komplek Melong Asih,-6.922132,107.565206,8.5,4
+100,TB023,Bandung Barat,Bandung Kulon,Masterindo,Sukarno Hatta,-6.937977,107.579738,2,1
+101,TB024,Bandung Barat,Bandung Kulon,Suryani,Terusan Suryani,-6.92645,107.577698,25.65,25.65
+102,TB025,Bandung Barat,Bandung Kulon,Cigondewah Rw 08,Cigondewah Kaler Rw 08,-6.935616,107.563677,2,1.5
+103,TB026,Bandung Barat,Babakan Ciparay,Porib,Porib,-6.948799,107.582281,32.2,32.2
+104,TB027,Bandung Barat,Babakan Ciparay,Satria Raya,Komplek Satria Raya,-6.948345,107.572199,43.44,43.44
+105,TB028,Bandung Barat,Babakan Ciparay,Kopo Elok,Kopo,-6.960323,107.579967,29.1,29.1
+106,TB029,Bandung Barat,Babakan Ciparay,Dian Permai,Dian Permai,-6.941385,107.571214,6.5,6.5
+107,TB030,Bandung Barat,Babakan Ciparay,Sumbersari,Sumbersari,-6.932243,107.574038,36.5,36.5
+108,TB031,Bandung Barat,Babakan Ciparay,Pikiran Rakyat,Sukarno Hatta,-6.93745,107.580362,1.5,1.5
+109,TB032,Bandung Barat,Babakan Ciparay,Pasir Koja,Terusan Pasir Koja,-6.929329,107.579196,17.89,17.89
+110,TB033,Bandung Barat,Astana Anyar,Pasar Astana Anyar,Astana Anyar,-6.930574,107.60106,27.38,27.38
+111,TB034,Bandung Barat,Astana Anyar,Peta,Peta,-6.937229,107.599497,67.1,67.1
+112,TB035,Bandung Barat,Astana Anyar,Pagarsih,Pagarsih,-6.92328,107.595648,62.77,62.77
+113,TB036,Bandung Barat,Astana Anyar,Nyengseret,Nyengseret,-6.931288,107.599691,62.08,62.08
+114,TB037,Bandung Barat,Bojongloa Kidul,Rumah Sakit Imanuel,Kopo,-6.935786,107.596329,6,4
+115,TB038,Bandung Barat,Bojongloa Kidul,Pasar Leuwi Panjang,Leuwi Panjang,-6.93842,107.59705,26.63,26.63
+116,TB039,Bandung Barat,Bojongloa Kidul,Terminal Leuwi Panjang,Terminal Leuwi Panjang,-6.94544,107.592922,17.19,17.19
+117,TB040,Bandung Barat,Bojongloa Kidul,Cibaduyut,Cibaduyut,-6.962001,107.59384,61.89,61.89
+118,TB041,Bandung Barat,Bojongloa Kidul,Mekar Wangi,Karasak Lama,-6.956275,107.607503,12,8
+119,TB042,Bandung Barat,Bojongloa Kidul,Karasak,Karasak,-6.948939,107.604308,22.18,22.18
+120,TT001,Bandung Timur,Arcamanik,Pacuan Kuda,Pacuan Kuda,-6.909549,107.673853,17,17
+121,TT002,Bandung Timur,Arcamanik,Komplek Arcamanik,Cisaranten Rw 15,-6.925413,107.674764,13.57,13.57
+122,TT003,Bandung Timur,Arcamanik,Cisaranten Jati,Cisaranten Jati,-6.916406,107.682559,24.09,24.09
+123,TT004,Bandung Timur,Arcamanik,Cingised,Cisaranten Kulon Rw 04,-6.929193,107.676572,18.8,18.8
+124,TT005,Bandung Timur,Arcamanik,Cicukang,Cicukang,-6.912408,107.683038,0.3,0.3
+125,TT006,Bandung Timur,Arcamanik,Bojong Awi,Bojong Awi,-6.907363,107.685567,0.5,0.5
+126,TT007,Bandung Timur,Arcamanik,Pu Binamarga,Komplek Binamarga,-6.915195,107.688462,10.56,10.56
+127,TT008,Bandung Timur,Arcamanik,Gading Regensi,Komplek Gading Regensi,-6.935927,107.671181,3,3
+128,TT009,Bandung Timur,Antapani,Subang,Subang,-6.912648,107.655265,38.32,38.32
+129,TT010,Bandung Timur,Antapani,Indramayu,Indramayu,-6.917873,107.657642,32,32
+130,TT011,Bandung Timur,Antapani,Cibatu,Cibatu,-6.915205,107.665714,34.93,34.93
+131,TT012,Bandung Timur,Antapani,Pratista,Pratista,-6.927434,107.668131,30.11,30.11
+132,TT013,Bandung Timur,Cibiru,Cipadung Rw 08,Cipadung Rw 08,-6.918357,107.722479,1.5,1
+133,TT014,Bandung Timur,Cibiru,Legit,Ah. Nasution,-6.927804,107.711587,12,12
+134,TT015,Bandung Timur,Gedebage,Cempaka Arum,Cempaka Arum,-6.956463,107.706541,7.71,7.71
+135,TT016,Bandung Timur,Gedebage,Rancabolang,Rancabolang,-6.967186,107.689146,2.56,2.56
+136,TT017,Bandung Timur,Rancasari,Derwati,Derwati,-6.968468,107.685994,7.57,7.57
+137,TT018,Bandung Timur,Rancasari,Pasar Ciwastra,Pasar Ciwastra,-6.961261,107.66661,73.36,73.36
+138,TT019,Bandung Timur,Rancasari,Bandung Inten,Komplek Bandung Inten,-6.962297,107.684365,1.5,1
+139,TT020,Bandung Timur,Buah Batu,Cipagalo,Cipagalo,-6.952764,107.648219,9.29,9.29
+140,TT021,Bandung Timur,Buah Batu,Cijaura Girang,Komplek Cijaura,-6.949825,107.654045,1.5,1
+141,TT022,Bandung Timur,Buah Batu,Emerald Tower,Emerald Tower,-6.932958,107.663931,12,12
+142,TT023,Bandung Timur,Mandalajati,Cikadut,Cikadut/ Makam Cikadut,-6.902276,107.665968,35,35
+143,TT024,Bandung Timur,Mandalajati,Bandung Hill Side,Komplek Tamansari Bukit Bandung,-6.901288,107.683451,11.55,11.55
+144,TT025,Bandung Timur,Mandalajati,Suka Asih,Komplek Suka Asih,-6.903882,107.686414,3,2
+145,TT026,Bandung Timur,Ujung Berung,Cijambe,Cijambe,-6.909275,107.690682,16,16
+146,TT027,Bandung Timur,Ujung Berung,Pasar Ujung Berung,Pasar Ujung Berung,-6.913759,107.702342,20.57,20.57
+147,TT028,Bandung Timur,Ujung Berung,Cigending,Cigending,-6.909617,107.703856,8,8
+148,TT029,Bandung Timur,Ujung Berung,Ujung Berung Indah,Komplek Ujung Berung Indah,-6.908726,107.696078,1.71,1.71
+149,TT030,Bandung Timur,Cinambo,Cinambo Indah,Cinambo,-6.924559,107.690714,1.14,1.14
+150,TT031,Bandung Timur,Cinambo,Golf,Golf,-6.917651,107.688964,7.43,7.43
+151,TT032,Bandung Timur,Panyileukan,Panyileukan,Komplek Panyileukan,-6.936523,107.712407,6.29,6.29
+152,TT033,Bandung Timur,Panyileukan,Pangaritan,Pangaritan,-6.926104,107.707907,7,7
+153,TT034,Bandung Timur,Panyileukan,Pasar Gedebage,Pasar Gedebage,-6.936373,107.696179,98,98
+154,TT035,Bandung Timur,Panyileukan,Polda Jabar,Sukarno Hatta,-6.937023,107.703626,1.5,1.5
